@@ -90,27 +90,11 @@ This project tackles early detection of brain tumors through medical image class
 
 ---
 
-## 📊 Sample Visuals (coming soon)
-- Model performance graphs  
-- Grad-CAM heatmaps  
-- Streamlit dashboard snapshots
-
----
-
 ## 🛡️ Compliance & Security
 
 - Secure data uploads with IAM and role-based access
 - Version control enabled for all ingestion workflows
 - Designed to align with best practices for healthcare data environments
-
----
-
-## 🧭 Future Enhancements
-
-- Multi-class tumor classification  
-- Integration with real-time medical annotation systems  
-- User authentication and data privacy enforcement  
-- Dashboard enhancements with user feedback loop
 
 ---
 
